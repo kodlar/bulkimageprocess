@@ -33,7 +33,7 @@ const images = [
 'http://imagizer.imageshack.us/a/img850/549/o146.jpg',
 'http://imagizer.imageshack.us/a/img822/6897/bmot.jpg',
 'http://imagizer.imageshack.us/a/img856/9180/jhiy.jpg',
-'http://imagizer.imageshack.us/a/img842/8889/mukih.jpg'
+'http://imagizer.imageshack.us/a/img842/8889/mukih.jpg',
 'http://imagizer.imageshack.us/a/img841/3909/1ll4w.jpg',
 'http://imagizer.imageshack.us/a/img853/2387/ewtc.jpg',
 'http://imagizer.imageshack.us/a/img823/4071/z4nf.jpg',
@@ -64,7 +64,7 @@ const images = [
 'http://imagizer.imageshack.us/a/img834/4189/d6zet.jpg',
 'http://imagizer.imageshack.us/a/img836/4250/a2n1.png',
 'http://imagizer.imageshack.us/a/img837/2626/kzfq.jpg',
-'http://imagizer.imageshack.us/a/img836/6802/af1s.jpg'
+'http://imagizer.imageshack.us/a/img836/6802/af1s.jpg',
 'http://imagizer.imageshack.us/a/img845/3810/jd1c.png',
 'http://imagizer.imageshack.us/a/img841/4229/atlh.jpg',
 'http://imagizer.imageshack.us/a/img836/8769/trr4.png',
@@ -92,7 +92,7 @@ const images = [
 'http://imagizer.imageshack.us/a/img31/305/oez6.png',
 'http://imagizer.imageshack.us/a/img850/1568/al14.png',
 'http://imagizer.imageshack.us/a/img809/8783/bmiv.png',
-'http://imagizer.imageshack.us/a/img829/493/gmuo.jpg'
+'http://imagizer.imageshack.us/a/img829/493/gmuo.jpg',
 'http://imagizer.imageshack.us/a/img69/156/t9x9.jpg',
 'http://imagizer.imageshack.us/a/img33/4459/xs8e.jpg',
 'http://imagizer.imageshack.us/a/img59/8181/n5z4.jpg',
@@ -168,7 +168,7 @@ const images = [
 'http://imagizer.imageshack.us/a/img233/9923/0c58e230cab94d958415ad7.jpg',
 'http://imagizer.imageshack.us/a/img812/9682/xlargesuneclipse01.jpg',
 'http://imagizer.imageshack.us/a/img219/2737/2u9sg01.jpg',
-'http://imagizer.imageshack.us/a/img29/6084/yingyangj.jpg'
+'http://imagizer.imageshack.us/a/img29/6084/yingyangj.jpg',
 'http://imagizer.imageshack.us/a/img829/9915/helenapetrovnablavatsky.jpg',
 'http://imagizer.imageshack.us/a/img819/1905/sultanf.jpg',
 //'http://imagizer.imageshack.us/a/img851/3272/sema.jpg',
@@ -196,7 +196,7 @@ const images = [
 'http://imagizer.imageshack.us/a/img190/4024/93508837.gif',
 'http://imagizer.imageshack.us/a/img840/1894/soundoftruth.jpg',
 //'http://imagizer.imageshack.us/a/img502/8706/expandedsound.jpg',
-'http://imagizer.imageshack.us/a/img194/589/soundofjoy.jpg'
+'http://imagizer.imageshack.us/a/img194/589/soundofjoy.jpg',
 'http://imagizer.imageshack.us/a/img148/5189/soundofcommunion.jpg',
 //'http://imagizer.imageshack.us/a/img227/8942/soundofunity.jpg',
 'http://imagizer.imageshack.us/a/img827/5749/cl57681.jpg',
