@@ -1,0 +1,14 @@
+{
+  "name": "image-downloader",
+  "version": "1.0.1",
+  "description": "toplu resim indirme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "okeskiner",
+  "license": "ISC",
+  "dependencies": {
+    "images-downloader": "^1.0.3"
+  }
+}
